@@ -1,10 +1,4 @@
-# Hi 👋, I'm Đại Dương
-
-- 🌱 I'm currently learning **AI**
-
-- 👯 I'm looking to collaborate on **AI projects, especially in Computer Vision and Deep Learning**
-
-- 🤝 I'm looking for help with **Best practices for deploying AI models to production & edge devices**
+# Hi 👋, I'm Dương
 
 - 📫 How to reach me **tranthaidaiduong0@gmail.com**
 
